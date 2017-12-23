@@ -3,4 +3,6 @@
 This is a simple readme file
 Kolejna linijka tekstu
 
-robimy coś co będziemy  przywracać
+robimy cos co bedziemy  przywracac
+
+just some updates o a  new branche
