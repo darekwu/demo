@@ -5,4 +5,5 @@ Kolejna linijka tekstu
 
 robimy cos co bedziemy  przywracac
 
-This is bound to cause trouble!
+Just something going on
+
